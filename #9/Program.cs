@@ -3,7 +3,7 @@
 // Console.Write("Cate numere sunt in sirul de numere? ");
 // int n = Convert.ToInt32(Console.ReadLine());
 // int[] seq = GetSeq(n);
-int[] seq = {1, 2, 3, 4, 5};
+int[] seq = {5, 4};
 PrintSeq(seq);
 
 if (IsMonotone(seq)) {
